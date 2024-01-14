@@ -2580,3 +2580,7 @@
 	.img-thumbnail {
 		/*background-color: #ffffff;*/
 	}
+
+	.badge-base.LI-profile-badge iframe {
+		margin: 0 auto;
+	}
